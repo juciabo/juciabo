@@ -2,7 +2,7 @@
 ## Estou estudando no alura
 ## Estou me desenvolvendo na linguagem JavaScript
 ## Utilizo esse espaço para minha organização e compartilhando os meus projetos desenvolvidos
-! [https://tenor.com/pt-BR/view/messi-barça-word-cup2022-psg-lionel-messi-gif-27465066] (https://media1.tenor.com/m/tJr565OBPJUAAAAC/messi-bar%C3%A7a.gif)
+! [https://tenor.com/pt-BR/view/pou-gif-25705012] (https://media.tenor.com/zqN_IiOEk48AAAAi/pou.gif)
 ## Estou estudando na [alura] (https://www.alura.com.br)
 **juciabo/juciabo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
